@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+expense_db.sqlite
+*.pdf
+.venv/
+venv/
+env/
